@@ -1,0 +1,7 @@
+*.cursor.com
+*.gpt.com
+*.unity.com
+*.unity3d.com
+*.google.com
+*.gstatic.com
+*.googleapis.com
